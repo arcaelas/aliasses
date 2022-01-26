@@ -11,8 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arcaelas/arcaelas.git",
-    "directory": "aliasses"
+    "url": "git+ssh://github.com/Arcaelas-Insiders-ES/aliasses.git"
   },
   "keywords": [
     "aliasses",
